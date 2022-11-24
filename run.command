@@ -1,0 +1,9 @@
+cd ~/dropbox/0\ wenyuan/cv/web
+python jemdoc.py index
+python jemdoc.py experience
+python jemdoc.py group
+python jemdoc.py publications
+python jemdoc.py funding
+python jemdoc.py teaching
+python jemdoc.py services
+python jemdoc.py openings
