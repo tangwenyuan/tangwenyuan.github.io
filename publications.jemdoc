@@ -5,6 +5,7 @@
 
 === Journal Articles
 
+# . Rongxing Enhancing Microgrid Performance by Optimizing Unit Commitment Considering Cold Load Pickup and Phase Balancing
 # . Valliappan Muthukaruppan, ^Ashwin Shirsat^, Rongxing Hu, Victor Paduani, Bei Xu, Yiyan Li, Mesut Baran, Ning Lu, David Lubkeman, and Wenyuan Tang, "Feeder microgrid management on an active distribution system during a severe outage," IEEE Transactions on Power Systems, under review, 08/22/2022.
 # . Tawsif Ahmad, Ning Zhou, Ziang Zhang, and Wenyuan Tang, "A non-parametric probabilistic solar forecasting method using Dempster-Shafer theory of evidence," IEEE Transactions on Power Systems, under review, 01/12/2023.
 # . Keith DSouza, ^Xiaochu Wang^, Mesut Baran, Wenyuan Tang, and Tommy Cleveland, "Identifying and estimating the cost of service components for large PV Farms on distribution systems," Renewable Energy, under revision, 01/19/2023.
@@ -12,7 +13,7 @@
 # . ^Junkai Liang^, Xiaonan Lu, and Wenyuan Tang, "A distributed optimization approach for critical service restoration in dynamic microgrids," under review.
 
 . ^Ashwin Shirsat^, Valliappan Muthukaruppan, Rongxing Hu, Victor Paduani, Bei Xu, Lidong Song, Yiyan Li, Ning Lu, Mesut Baran, David Lubkeman, and Wenyuan Tang, "[https://doi.org/10.1109/TSTE.2023.3251099 A secure and adaptive hierarchical multi-timescale framework for resilient load restoration using a community microgrid]," IEEE Transactions on Sustainable Energy, vol. 14, no. 2, pp. 1057--1075, 2023.
-. Chen Yin, Jianxiao Wang, Wenyuan Tang, Gengyin Li, and Ming Zhou, "[https://doi.org/10.1109/JIOT.2022.3173488 Health-aware energy management strategy toward Internet of Storage]," IEEE Internet of Things Journal, early access.
+. Chen Yin, Jianxiao Wang, Wenyuan Tang, Gengyin Li, and Ming Zhou, "[https://doi.org/10.1109/JIOT.2022.3173488 Health-aware energy management strategy toward Internet of Storage]," IEEE Internet of Things Journal, vol. 10, no. 9, pp. 7545--7553, 2023.
 . ^Junkai Liang^ and Wenyuan Tang, "[https://doi.org/10.1109/TSG.2022.3175451 Ultra-short-term spatiotemporal forecasting of renewable resources: An attention temporal convolutional network based approach]," IEEE Transactions on Smart Grid, vol. 13, no. 5, pp. 3798--3812, 2022.
 . Zhaoyuan Wu, Ming Zhou, Jianxiao Wang, Wenyuan Tang, Bo Yuan, and Gengyin Li, "[http://www.pcsee.org/CN/Y2022/V42/I21/7746 Review on market mechanism to enhance the flexibility of power system under the dual-carbon target]," Proceedings of the CSEE, vol. 42, no. 21, pp. 7746--7763, 2022.
 . Yuhua Du, Xiaonan Lu, and Wenyuan Tang, "[https://doi.org/10.1109/TSG.2022.3141395 Accurate distributed secondary control for DC microgrids considering communication delays: A surplus consensus-based approach]," IEEE Transactions on Smart Grid, vol. 13, no. 3, pp. 1709--1719, 2022.
@@ -33,6 +34,7 @@
 . Wenyuan Tang and Rahul Jain, "[https://doi.org/10.1109/JSAC.2012.121204 Hierarchical auction mechanisms for network resource allocation]," IEEE Journal on Selected Areas in Communications, vol. 30, no. 11, pp. 2117--2125, 2012.
 
 === Conference Proceedings
+. Shweta Meena, ^Hualong Liu^, Hao Tu, Srdjan Lukic, and Wenyuan Tang, "An open source tool for reliable and optimal microgrid design," IEEE Energy Conversion Congress and Exposition (ECCE), Nashville, TN, USA, 2023.
 . Junhui Zhang, Lizhi Ding, Xiaonan Lu, and Wenyuan Tang, "Sparse and safe frequency regulation for inverter intensive microgrids," IEEE IAS Annual Meeting, Detroit, MI, USA, 2022.
 . ^Xiaochu Wang^, Keith DSouza, Wenyuan Tang, and Mesut Baran, "Assessing the impact of high penetration PV on the power transformer loss of life on a distribution system," IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe), Espoo, Finland, 2021.
 . Rongxing Hu, Yiyan Li, Si Zhang, ^Ashwin Shirsat^, Valliappan Muthukaruppan, Wenyuan Tang, Mesut Baran, David Lubkeman, and Ning Lu, "A load switching group based feeder-level microgrid energy management algorithm for service restoration in power distribution system," IEEE PES General Meeting (PESGM), Washington, DC, USA, 2021.
