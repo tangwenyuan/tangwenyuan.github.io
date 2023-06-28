@@ -7,3 +7,6 @@ python jemdoc.py funding
 python jemdoc.py teaching
 python jemdoc.py services
 python jemdoc.py openings
+git add -A
+git push
+git commit -m "new"
