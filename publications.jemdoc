@@ -9,7 +9,6 @@
 # . Valliappan Muthukaruppan, ^Ashwin Shirsat^, Rongxing Hu, Victor Paduani, Bei Xu, Yiyan Li, Mesut Baran, Ning Lu, David Lubkeman, and Wenyuan Tang, "Feeder microgrid management on an active distribution system during a severe outage," IEEE Transactions on Power Systems, under review, 08/22/2022.
 # . Tawsif Ahmad, Ning Zhou, Ziang Zhang, and Wenyuan Tang, "A non-parametric probabilistic solar forecasting method using Dempster-Shafer theory of evidence," IEEE Transactions on Power Systems, under review, 01/12/2023.
 # . Keith DSouza, ^Xiaochu Wang^, Mesut Baran, Wenyuan Tang, and Tommy Cleveland, "Identifying and estimating the cost of service components for large PV Farms on distribution systems," Renewable Energy, under revision, 01/19/2023.
-# . ^Junkai Liang^ and Wenyuan Tang, "Attention mechanism based probabilistic day-ahead net-load forecasting with behind-the-meter solar," under review.
 # . ^Junkai Liang^, Xiaonan Lu, and Wenyuan Tang, "A distributed optimization approach for critical service restoration in dynamic microgrids," under review.
 
 . Junhui Zhang, Lizhi Ding, Xiaonan Lu, and Wenyuan Tang, "[https://doi.org/10.1109/TIA.2023.3291353 A novel real-time control approach for sparse and safe frequency regulation in inverter intensive microgrids]," IEEE Transactions on Industry Applications, vol. 59, no. 5, pp. 5550--5558, 2023.
@@ -37,6 +36,7 @@
 
 === Conference Proceedings
 
+. ^Junkai Liang^, Wenyuan Tang, Suwei Zhai, Kaiyuan Yu, and Dongdong Wang, "Attention mechanism based probabilistic day-ahead net-load forecasting with behind-the-meter solar," 7th IEEE Conference on Energy Internet and Energy System Integration ($\text{EI}^2$), Hangzhou, China, 2023.
 . ^Hualong Liu^ and Wenyuan Tang, "Decomposing locational marginal prices in look-ahead economic dispatch," 55th North American Power Symposium (NAPS), Asheville, NC, USA, 2023.
 . Shweta Meena, ^Hualong Liu^, Hao Tu, Srdjan Lukic, and Wenyuan Tang, "A benchmarking tool for state-of-the-art microgrid design approaches," IEEE Energy Conversion Congress and Exposition (ECCE), Nashville, TN, USA, 2023.
 . Junhui Zhang, Lizhi Ding, Xiaonan Lu, and Wenyuan Tang, "[https://doi.org/10.1109/IAS54023.2022.9939929 Sparse and safe frequency regulation for inverter intensive microgrids]," IEEE IAS Annual Meeting, Detroit, MI, USA, 2022.
