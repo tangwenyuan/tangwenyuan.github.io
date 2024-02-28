@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{services.html}
+# jemdoc: menu{MENU}{services.html}, nofooter
 = Services
 
 === Editorial Board Member

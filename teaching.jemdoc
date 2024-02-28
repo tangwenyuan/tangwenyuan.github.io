@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{teaching.html}
+# jemdoc: menu{MENU}{teaching.html}, nofooter
 = Teaching
 
 === ECE 452: Renewable Electric Energy Systems

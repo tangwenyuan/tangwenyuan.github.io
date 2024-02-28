@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{funding.html}
+# jemdoc: menu{MENU}{funding.html}, nofooter
 = Funding
 
 - [https://nsf.gov/awardsearch/showAward?AWD_ID=1951197 SBIR Phase II: Intelligent Planning and Control Software for EV Charging Infrastructure] \n
