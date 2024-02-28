@@ -1,6 +1,11 @@
 # jemdoc: menu{MENU}{openings.html}, nofooter
 = Openings
 
+~~~
+{Optionally empty title}{Optionally empty highlight mode}
+Code block with monospaced text.
+~~~
+
 === Current Students at NC State
 If you would like to discuss research opportunities, please send me an email with your CV and transcripts. You are highly encouraged to take my courses if you would like to pursue Ph.D. under my supervision.
 
