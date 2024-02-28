@@ -1,3 +1,4 @@
 *.jemdoc
+jemdoc.*
 MENU
 run.command
